@@ -1,1 +1,1 @@
-# cats-project
+# npm install prompt-sync
